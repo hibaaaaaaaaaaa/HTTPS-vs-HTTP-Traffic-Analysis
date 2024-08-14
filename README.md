@@ -42,7 +42,8 @@ A digital certificate contains important details about a website, such as infoma
 
 - **Obtain a Digital Certificate**: It can be done in one of two ways: You can obtain a certificate from a `trusted Certificate Authority (CA)`. In this project, we use `OpenSSL` to create a self-signed certificate. This type of certificate is typically used for *_testing purposes_* because it isn't recognized by external browsers as a trusted certificate, as shown below.
 
-    **_Example of self-signed certificate :_** 
+    **_Example of self-signed certificate :_**
+  
     ![cert](https://github.com/user-attachments/assets/911a60a7-32e6-4280-a3f8-d651effd066c)
 
 
